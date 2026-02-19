@@ -1,0 +1,23 @@
+h1 {
+	color: rgb(41, 21, 221);
+	text-align: center;
+}
+
+#nupp {
+	background-color: blue;
+	font-size: 30px;
+	padding: 20px;
+	cursor: pointer;
+	color: white;
+}
+
+body {
+	background-color: rgb(73, 113, 126);
+	margin: 0;
+	padding: 24px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
+}
+

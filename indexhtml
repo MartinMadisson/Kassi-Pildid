@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Kassi-Pildid</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Minu Kassilehekülg🐱🐱🐱</h1>
+    <button id="nupp">Click Me</button>
+
+    <div id="kass"></div>
+
+
+    <script src="javascript.js"></script>
+</body>
+
+</html>
