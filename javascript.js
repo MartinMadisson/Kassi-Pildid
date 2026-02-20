@@ -12,7 +12,6 @@ async function getData() { //see ootab andmeid internetist
 
   const image = document.createElement("img"); //teeb uue pildi
   image.className = "Kassipilt"; //panin classinimeks kassipilt siis on arusaadav ja et parast peab ules leidma ja ara kustutada 1 rida uleval
-  image.alt = "Kassipilt";
   image.src = imageUrl; //pilt tuleb siit
   kass.appendChild(image);
 
